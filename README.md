@@ -11,3 +11,5 @@ Schoolwork assistant is an Android application that is designed to help students
 2. Gradle
 3. PDFViewer Library
 4. SQLite Database
+#### Screenshots
+![Login](URL "/screenshots/Screenshot_20240109-140147.jpg")
