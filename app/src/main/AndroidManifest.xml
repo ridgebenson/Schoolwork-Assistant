@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.READ_CALENDAR" />
+    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.SchoolAssistant"
+        tools:targetApi="31">
+        <activity
+            android:name=".GoPremium"
+            android:exported="false" />
+        <activity
+            android:name=".ScheduleActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EventsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".IPMTp3"
+            android:exported="false" />
+        <activity
+            android:name=".IPMTp2"
+            android:exported="false" />
+        <activity
+            android:name=".IPMTp1"
+            android:exported="false" />
+        <activity
+            android:name=".INTTp3"
+            android:exported="false" />
+        <activity
+            android:name=".INTTp2"
+            android:exported="false" />
+        <activity
+            android:name=".INTTp1"
+            android:exported="false" />
+        <activity
+            android:name=".CSTp3"
+            android:exported="false" />
+        <activity
+            android:name=".CSTp2"
+            android:exported="false" />
+        <activity
+            android:name=".CSTp1"
+            android:exported="false" />
+        <activity
+            android:name=".ArtITp3"
+            android:exported="false" />
+        <activity
+            android:name=".ArtITp2"
+            android:exported="false" />
+        <activity
+            android:name=".ArtITp1"
+            android:exported="false" />
+        <activity
+            android:name=".MobileAppTp3"
+            android:exported="false" />
+        <activity
+            android:name=".MobileAppTp2"
+            android:exported="false" />
+        <activity
+            android:name=".MobileAppTp1"
+            android:exported="false" />
+        <activity
+            android:name=".PMActivity"
+            android:exported="false" />
+        <activity
+            android:name=".IoTActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CSActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AIActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AndroidActivity"
+            android:exported="false" />
+        <activity
+            android:name=".StudyMaterials"
+            android:exported="false" />
+        <activity
+            android:name=".HomeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RegisterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
