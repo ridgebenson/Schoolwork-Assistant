@@ -43,7 +43,7 @@ Schoolwork assistant is an Android application that is designed to help students
 ##### Schedule a Task/Activity
 <img src="/screenshots/schedule.png" alt="Login" width="250" height="400"/>
 
-## Contributing to this repository
+## Contributing to this project
 1. **Fork the Repository**
 2. **Clone the Forked Repository**:
    ```bash
