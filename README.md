@@ -14,10 +14,10 @@ Schoolwork assistant is an Android application that is designed to help students
 #### Screenshots
 
 ##### Login
-<img src="/screenshots/Screenshot_20240109-140147.jpg" alt="Login" width="250" height="400"/>
+<img src="/screenshots/login.png" alt="Login" width="250" height="400"/>
 
 ##### Register
-<img src="/screenshots/Screenshot_20240109-140151.jpg" alt="Register" width="250" height="400"/>
+<img src="/screenshots/Register.png" alt="Register" width="250" height="400"/>
 
 ##### Homepage
 <img src="/screenshots/Screenshot_20240109-140252.jpg" alt="Homepage" width="250" height="400"/>
@@ -31,4 +31,11 @@ Schoolwork assistant is an Android application that is designed to help students
 ##### PDF Format Notes
 <img src="/screenshots/Screenshot_20240109-140359.jpg" alt="Notes" width="250" height="400"/>
 
+##### Go Premium
+<img src="/screenshots/premium.png" alt="Login" width="250" height="400"/>
 
+##### Tasks
+<img src="/screenshots/tasks.png" alt="Login" width="250" height="400"/>
+
+##### Schedule a Task/Activity
+<img src="/screenshots/schedule.png" alt="Login" width="250" height="400"/>
