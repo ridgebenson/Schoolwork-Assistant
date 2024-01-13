@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.schoolassistant"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="33" />
+
+    <uses-permission android:name="android.permission.READ_CALENDAR" />
+    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+
+    <permission
+        android:name="com.example.schoolassistant.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="com.example.schoolassistant.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:debuggable="true"
+        android:extractNativeLibs="true"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/Theme.SchoolAssistant" >
+        <activity
+            android:name="com.example.schoolassistant.GoPremium"
+            android:exported="false" />
+        <activity
+            android:name="com.example.schoolassistant.ScheduleActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.schoolassistant.EventsActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.schoolassistant.IPMTp3"
+            android:exported="false" />
+        <activity
+            android:name="com.example.schoolassistant.IPMTp2"
+            android:exported="false" />
+        <activity
+            android:name="com.example.schoolassistant.IPMTp1"
+            android:exported="false" />
+        <activity
+            android:name="com.example.schoolassistant.INTTp3"
+            android:exported="false" />
+        <activity
+            android:name="com.example.schoolassistant.INTTp2"
+            android:exported="false" />
+        <activity
+            android:name="com.example.schoolassistant.INTTp1"
+            android:exported="false" />
+        <activity
+            android:name="com.example.schoolassistant.CSTp3"
+            android:exported="false" />
+        <activity
+            android:name="com.example.schoolassistant.CSTp2"
+            android:exported="false" />
+        <activity
+            android:name="com.example.schoolassistant.CSTp1"
+            android:exported="false" />
+        <activity
+            android:name="com.example.schoolassistant.ArtITp3"
+            android:exported="false" />
+        <activity
+            android:name="com.example.schoolassistant.ArtITp2"
+            android:exported="false" />
+        <activity
+            android:name="com.example.schoolassistant.ArtITp1"
+            android:exported="false" />
+        <activity
+            android:name="com.example.schoolassistant.MobileAppTp3"
+            android:exported="false" />
+        <activity
+            android:name="com.example.schoolassistant.MobileAppTp2"
+            android:exported="false" />
+        <activity
+            android:name="com.example.schoolassistant.MobileAppTp1"
+            android:exported="false" />
+        <activity
+            android:name="com.example.schoolassistant.PMActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.schoolassistant.IoTActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.schoolassistant.CSActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.schoolassistant.AIActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.schoolassistant.AndroidActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.schoolassistant.StudyMaterials"
+            android:exported="false" />
+        <activity
+            android:name="com.example.schoolassistant.HomeActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.schoolassistant.RegisterActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.schoolassistant.LoginActivity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <provider
+            android:name="androidx.startup.InitializationProvider"
+            android:authorities="com.example.schoolassistant.androidx-startup"
+            android:exported="false" >
+            <meta-data
+                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+                android:value="androidx.startup" />
+        </provider>
+
+        <receiver
+            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+            android:directBootAware="false"
+            android:enabled="true"
+            android:exported="true"
+            android:permission="android.permission.DUMP" >
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

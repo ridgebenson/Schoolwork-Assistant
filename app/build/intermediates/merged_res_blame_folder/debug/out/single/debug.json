@@ -1,0 +1,278 @@
+[
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/layout_activity_io_tactivity.xml.flat",
+        "source": "com.example.schoolassistant.app-main-35:/layout/activity_io_tactivity.xml"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/layout_activity_mobile_app_tp3.xml.flat",
+        "source": "com.example.schoolassistant.app-main-35:/layout/activity_mobile_app_tp3.xml"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.schoolassistant.app-main-35:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/layout_activity_ipmtp1.xml.flat",
+        "source": "com.example.schoolassistant.app-main-35:/layout/activity_ipmtp1.xml"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/drawable_android.xml.flat",
+        "source": "com.example.schoolassistant.app-main-35:/drawable/android.xml"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/layout_activity_register.xml.flat",
+        "source": "com.example.schoolassistant.app-main-35:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/drawable_ic_baseline_security_24.xml.flat",
+        "source": "com.example.schoolassistant.app-main-35:/drawable/ic_baseline_security_24.xml"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.schoolassistant.app-main-35:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/drawable_bgh.jpg.flat",
+        "source": "com.example.schoolassistant.app-main-35:/drawable/bgh.jpg"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.schoolassistant.app-main-35:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.schoolassistant.app-main-35:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/drawable_bg2.jpg.flat",
+        "source": "com.example.schoolassistant.app-main-35:/drawable/bg2.jpg"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/layout_activity_aiactivity.xml.flat",
+        "source": "com.example.schoolassistant.app-main-35:/layout/activity_aiactivity.xml"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/drawable_cal.xml.flat",
+        "source": "com.example.schoolassistant.app-main-35:/drawable/cal.xml"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/layout_activity_cstp1.xml.flat",
+        "source": "com.example.schoolassistant.app-main-35:/layout/activity_cstp1.xml"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.schoolassistant.app-main-35:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/layout_activity_go_premium.xml.flat",
+        "source": "com.example.schoolassistant.app-main-35:/layout/activity_go_premium.xml"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.schoolassistant.app-main-35:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/drawable_btn_bg.xml.flat",
+        "source": "com.example.schoolassistant.app-main-35:/drawable/btn_bg.xml"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/drawable_compsec.xml.flat",
+        "source": "com.example.schoolassistant.app-main-35:/drawable/compsec.xml"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/drawable_bghome.jpg.flat",
+        "source": "com.example.schoolassistant.app-main-35:/drawable/bghome.jpg"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/layout_activity_mobile_app_tp2.xml.flat",
+        "source": "com.example.schoolassistant.app-main-35:/layout/activity_mobile_app_tp2.xml"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/drawable_lgn.png.flat",
+        "source": "com.example.schoolassistant.app-main-35:/drawable/lgn.png"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/layout_activity_ipmtp2.xml.flat",
+        "source": "com.example.schoolassistant.app-main-35:/layout/activity_ipmtp2.xml"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/layout_activity_art_itp3.xml.flat",
+        "source": "com.example.schoolassistant.app-main-35:/layout/activity_art_itp3.xml"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/drawable_widgets.xml.flat",
+        "source": "com.example.schoolassistant.app-main-35:/drawable/widgets.xml"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/layout_activity_schedule.xml.flat",
+        "source": "com.example.schoolassistant.app-main-35:/layout/activity_schedule.xml"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/drawable_bg5.png.flat",
+        "source": "com.example.schoolassistant.app-main-35:/drawable/bg5.png"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/drawable_ic_baseline_email_24.xml.flat",
+        "source": "com.example.schoolassistant.app-main-35:/drawable/ic_baseline_email_24.xml"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/layout_activity_study_materials.xml.flat",
+        "source": "com.example.schoolassistant.app-main-35:/layout/activity_study_materials.xml"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.schoolassistant.app-pngs-29:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.schoolassistant.app-main-35:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/layout_activity_login.xml.flat",
+        "source": "com.example.schoolassistant.app-main-35:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/layout_activity_main.xml.flat",
+        "source": "com.example.schoolassistant.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/layout_activity_inttp1.xml.flat",
+        "source": "com.example.schoolassistant.app-main-35:/layout/activity_inttp1.xml"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.schoolassistant.app-main-35:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.schoolassistant.app-main-35:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/drawable_pm.xml.flat",
+        "source": "com.example.schoolassistant.app-main-35:/drawable/pm.xml"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/xml_backup_rules.xml.flat",
+        "source": "com.example.schoolassistant.app-main-35:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/drawable_ic_baseline_person_24.xml.flat",
+        "source": "com.example.schoolassistant.app-main-35:/drawable/ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/drawable_iot.xml.flat",
+        "source": "com.example.schoolassistant.app-main-35:/drawable/iot.xml"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/drawable_bg1.jpeg.flat",
+        "source": "com.example.schoolassistant.app-main-35:/drawable/bg1.jpeg"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.schoolassistant.app-main-35:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/layout_activity_inttp2.xml.flat",
+        "source": "com.example.schoolassistant.app-main-35:/layout/activity_inttp2.xml"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/layout_activity_art_itp2.xml.flat",
+        "source": "com.example.schoolassistant.app-main-35:/layout/activity_art_itp2.xml"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/drawable_info.xml.flat",
+        "source": "com.example.schoolassistant.app-main-35:/drawable/info.xml"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/drawable_input_bg.xml.flat",
+        "source": "com.example.schoolassistant.app-main-35:/drawable/input_bg.xml"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/layout_activity_cstp3.xml.flat",
+        "source": "com.example.schoolassistant.app-main-35:/layout/activity_cstp3.xml"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/layout_activity_ipmtp3.xml.flat",
+        "source": "com.example.schoolassistant.app-main-35:/layout/activity_ipmtp3.xml"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.schoolassistant.app-main-35:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/drawable_bg4.jpeg.flat",
+        "source": "com.example.schoolassistant.app-main-35:/drawable/bg4.jpeg"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/layout_activity_pmactivity.xml.flat",
+        "source": "com.example.schoolassistant.app-main-35:/layout/activity_pmactivity.xml"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.schoolassistant.app-main-35:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/drawable_ai.xml.flat",
+        "source": "com.example.schoolassistant.app-main-35:/drawable/ai.xml"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/layout_activity_csactivity.xml.flat",
+        "source": "com.example.schoolassistant.app-main-35:/layout/activity_csactivity.xml"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/drawable_home.xml.flat",
+        "source": "com.example.schoolassistant.app-main-35:/drawable/home.xml"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/layout_activity_events.xml.flat",
+        "source": "com.example.schoolassistant.app-main-35:/layout/activity_events.xml"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/layout_activity_cstp2.xml.flat",
+        "source": "com.example.schoolassistant.app-main-35:/layout/activity_cstp2.xml"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/layout_activity_android.xml.flat",
+        "source": "com.example.schoolassistant.app-main-35:/layout/activity_android.xml"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/drawable_bg3.jpeg.flat",
+        "source": "com.example.schoolassistant.app-main-35:/drawable/bg3.jpeg"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/drawable_lgn01.png.flat",
+        "source": "com.example.schoolassistant.app-main-35:/drawable/lgn01.png"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/layout_activity_mobile_app_tp1.xml.flat",
+        "source": "com.example.schoolassistant.app-main-35:/layout/activity_mobile_app_tp1.xml"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/layout_activity_inttp3.xml.flat",
+        "source": "com.example.schoolassistant.app-main-35:/layout/activity_inttp3.xml"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/drawable_book.xml.flat",
+        "source": "com.example.schoolassistant.app-main-35:/drawable/book.xml"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/layout_activity_home.xml.flat",
+        "source": "com.example.schoolassistant.app-main-35:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.schoolassistant.app-main-35:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/drawable_icon.png.flat",
+        "source": "com.example.schoolassistant.app-main-35:/drawable/icon.png"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.schoolassistant.app-main-35:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.schoolassistant.app-merged_res-33:/layout_activity_art_itp1.xml.flat",
+        "source": "com.example.schoolassistant.app-main-35:/layout/activity_art_itp1.xml"
+    }
+]
